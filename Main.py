@@ -33,7 +33,7 @@ import pickle
 import webbrowser
 import sys, subprocess
 import ctypes
-
+import time
 
 
 def enableOptions():
